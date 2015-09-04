@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="local/cace/db" VERSION="20110609" COMMENT="XMLDB file for Moodle local/cace"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="cace_newcourses" COMMENT="CACE course import table" >
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="agrcourseoffpk"/>
+        <FIELD NAME="agrcourseoffpk" TYPE="int" LENGTH="11" NOTNULL="false" UNSIGNED="false" SEQUENCE="false" PREVIOUS="id" NEXT="idnumber"/>
+        <FIELD NAME="idnumber" TYPE="char" LENGTH="100" NOTNULL="false" SEQUENCE="false" PREVIOUS="agrcourseoffpk" NEXT="fullname"/>
+        <FIELD NAME="fullname" TYPE="char" LENGTH="254" NOTNULL="false" SEQUENCE="false" PREVIOUS="idnumber" NEXT="shortname"/>
+        <FIELD NAME="shortname" TYPE="char" LENGTH="100" NOTNULL="false" SEQUENCE="false" PREVIOUS="fullname" NEXT="startdate"/>
+        <FIELD NAME="startdate" TYPE="int" LENGTH="10" NOTNULL="false" UNSIGNED="false" SEQUENCE="false" PREVIOUS="shortname" NEXT="programtype"/>
+        <FIELD NAME="programtype" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" PREVIOUS="startdate" NEXT="department"/>
+        <FIELD NAME="department" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" PREVIOUS="programtype" NEXT="program"/>
+        <FIELD NAME="program" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" PREVIOUS="department" NEXT="lastupdated"/>
+        <FIELD NAME="lastupdated" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="program"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="mdl_cace_newcourses_idn_ix" UNIQUE="false" FIELDS="idnumber"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>

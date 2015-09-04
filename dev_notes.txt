@@ -1,0 +1,318 @@
+<table width="100%" class="course-schedule">
+<thead>
+	<tr>
+		<th colspan="2"><strong>Course Development Notes</strong></td>
+  	</tr>
+</thead>
+<tbody>
+  <tr>
+    <td width="50%" valign="top"><strong>Instructor(s) or Intellectual Lead:</strong>
+    </td>
+    <td width="50%" valign="top"><br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Program Manager:</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Program Associate(s):</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>IMD:</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>ELT:</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>ID:</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Final QC :</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Multi-Section Course?</strong> Yes / No (Instructors view other sections?)
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Instructor Edit Access?</strong> (Yes / No)
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Gradebook Settings</strong> (Generic or Program Specific?)
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Grading and Gradebook Details</strong> (Insert details / link)
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Collaborate Rooms Required?</strong> (Yes / No)
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Collaborate Room Moderators</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Special Items Required?</strong> (insert details eg. TAPS required)
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Previous offering course copied from:</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Date course copied:</strong>
+    </td>
+    <td valign="top"> <br />
+    </td>
+  </tr></tbody>
+</table>
+<table width="100%" class="course-schedule">
+<thead>
+  <tr>
+    <th><strong>Development notes for this offering:</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <br />
+    </td>
+  </tr></tbody>
+</table>
+<p></p>
+<table width="100%" class="course-schedule">
+<thead>
+  <tr>
+    <th><strong>Web QC</strong>
+    </th>
+    <th><strong>Completed by: [Initials and Date]</strong>
+    </th>
+    <th><br />
+    </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th width="20%"><strong>Page</strong>
+    </th>
+    <th><strong>Description</strong>
+    </th>
+    <th><strong>Resolved by:</strong>
+    </th>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr></tbody>
+</table>
+<p></p>
+<table width="100%" class="course-schedule">
+<thead>
+  <tr>
+    <th><strong>Final QC</strong>
+    </th>
+    <th><strong>Completed by: [Initials and Date]</strong>
+    </th>
+    <th><br />
+    </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th width="20%"><strong>Page</strong>
+    </th>
+    <th><strong>Description</strong>
+    </th>
+    <th><strong>Resolved by:</strong>
+    </th>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr>
+  <tr>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+    <td> <br />
+    </td>
+  </tr></tbody>
+</table>
+<p></p>
+<table width="100%" class="course-schedule">
+<thead>
+  <tr>
+    <th><strong>Suggestions for next offering</strong>: (ID and ELT review general and QC notes from previous offering at time of course copy, decide what to keep and delete the rest. Copy notes to be kept here)
+    </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> <br />
+    </td>
+  </tr></tbody>
+</table>
