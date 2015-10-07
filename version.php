@@ -16,7 +16,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2015071000;    // The current module version (Date: YYYYMMDDXX).
-$plugin->requires  = 2014111003;    // Requires Moodle 2.8.3.
+$plugin->version   = 2015100700;        // The current plugin version.
+$plugin->requires  = 2015051101;        // Requires this Moodle version (2.9.1).
 $plugin->component = 'local_cace';
 
