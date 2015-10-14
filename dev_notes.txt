@@ -1,318 +1,281 @@
-<table width="100%" class="course-schedule">
+<table class="course-schedule">
 <thead>
-	<tr>
-		<th colspan="2"><strong>Course Development Notes</strong></td>
-  	</tr>
+<tr><th colspan="2"><strong>Course Contacts</strong></th></tr>
 </thead>
 <tbody>
-  <tr>
-    <td width="50%" valign="top"><strong>Instructor(s) or Intellectual Lead:</strong>
-    </td>
-    <td width="50%" valign="top"><br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Program Manager:</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Program Associate(s):</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>IMD:</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>ELT:</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>ID:</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Final QC :</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Multi-Section Course?</strong> Yes / No (Instructors view other sections?)
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Instructor Edit Access?</strong> (Yes / No)
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Gradebook Settings</strong> (Generic or Program Specific?)
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Grading and Gradebook Details</strong> (Insert details / link)
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Collaborate Rooms Required?</strong> (Yes / No)
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Collaborate Room Moderators</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Special Items Required?</strong> (insert details eg. TAPS required)
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Previous offering course copied from:</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Date course copied:</strong>
-    </td>
-    <td valign="top"> <br />
-    </td>
-  </tr></tbody>
-</table>
-<table width="100%" class="course-schedule">
-<thead>
-  <tr>
-    <th><strong>Development notes for this offering:</strong></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td> <br />
-    </td>
-  </tr></tbody>
+<tr>
+<td valign="top" width="25%"><strong>Instructor </strong></td>
+<td valign="top" width="75%"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Non-Editing Instructor</strong></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Program contact</strong></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Intellectual/Course Lead </strong><em>[if applicable]</em></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Learning Technologist</strong></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Instructional Designer </strong><em>[if applicable]</em></td>
+<td valign="top"><span style="background-color: #ff9900;">LTs add IDs name or leave this text if SL1:</span> IDs are not assigned to <a target="_blank" title="Service Level 1" href="http://ctet.royalroads.ca/course-rollover-service-level-1-sl1">Level 1</a> courses. Faculty may call or drop by STUDIO for assistance. On Campus: LIC 004, 8AM - 4PM M-F. Phone: 250-391-2600 ext. 4465, or 1-866-808-5429 (ask to be transferred to STUDIO).</td>
+</tr>
+<tr>
+<td valign="top"><strong>Final reviewer </strong><em>[if applicable]</em></td>
+<td valign="top"></td>
+</tr>
+</tbody>
 </table>
 <p></p>
-<table width="100%" class="course-schedule">
+<table class="course-schedule">
 <thead>
-  <tr>
-    <th><strong>Web QC</strong>
-    </th>
-    <th><strong>Completed by: [Initials and Date]</strong>
-    </th>
-    <th><br />
-    </th>
-  </tr>
+<tr><th colspan="5">Tasks for this offering</th></tr>
 </thead>
 <tbody>
-  <tr>
-    <th width="20%"><strong>Page</strong>
-    </th>
-    <th><strong>Description</strong>
-    </th>
-    <th><strong>Resolved by:</strong>
-    </th>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr></tbody>
+<tr><th width="25%">Task</th><th width="15%">Responsibility</th><th width="15%">Due date</th><th width="15%">Completion by: <br /> Name &amp; date</th><th width="30%">Notes</th></tr>
+<tr>
+<td><strong>Course copy </strong></td>
+<td>CTET</td>
+<td>8 - 12 weeks</td>
+<td></td>
+<td>Copied course from:</td>
+</tr>
+<tr><th colspan="5">Readings</th></tr>
+<tr>
+<td><strong>Update readings</strong></td>
+<td>program</td>
+<td>6 weeks</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Copyright </strong></td>
+<td>copyright office</td>
+<td>6 weeks</td>
+<td></td>
+<td></td>
+</tr>
+<tr><th colspan="5">Course Content</th></tr>
+<tr>
+<td><strong>Course Outline pages: </strong><em>[overview, policies, contact information]</em><strong><br /> </strong></td>
+<td>program</td>
+<td>8 weeks</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Update Content:</strong> <em>[forums, assignments, units, assessment criteria, media]</em></td>
+<td>program</td>
+<td>6 weeks</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Update Dates:</strong><em> [assignments, schedule, etc.]</em></td>
+<td>program</td>
+<td>6 weeks</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Course/Activity Schedule </strong></td>
+<td>program</td>
+<td>6 weeks</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Approve course outline</strong> <em>[if applicable]</em></td>
+<td>program</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><th colspan="5">Teams</th></tr>
+<tr>
+<td><strong>Teams populated</strong></td>
+<td>program</td>
+<td>1 week</td>
+<td></td>
+<td></td>
+</tr>
+<tr><th colspan="5">Other</th></tr>
+<tr>
+<td> -</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td> -</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
 </table>
 <p></p>
-<table width="100%" class="course-schedule">
+<table class="course-schedule">
 <thead>
-  <tr>
-    <th><strong>Final QC</strong>
-    </th>
-    <th><strong>Completed by: [Initials and Date]</strong>
-    </th>
-    <th><br />
-    </th>
-  </tr>
+<tr><th colspan="4"><strong> Settings for this offering</strong></th></tr>
 </thead>
 <tbody>
-  <tr>
-    <th width="20%"><strong>Page</strong>
-    </th>
-    <th><strong>Description</strong>
-    </th>
-    <th><strong>Resolved by:</strong>
-    </th>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr>
-  <tr>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-    <td> <br />
-    </td>
-  </tr></tbody>
+<tr><th>Item</th><th width="57%">Description</th><th width="18%">Checked by [Name, Date]</th></tr>
+<tr>
+<td valign="top"><strong>School </strong><em>[CTET link to school/program settings]</em></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><strong>Team <a href="http://moodle.royalroads.ca/moodle/mod/book/view.php?id=71710&amp;chapterid=28795" target="_blank">Forums</a></strong> <em>[forums are separate by default - list visible team forums]</em></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Assignments </strong><em>[<a href="http://moodle.royalroads.ca/moodle/mod/book/view.php?id=71707&amp;chapterid=28786" target="_blank">advanced grading</a>; <a href="http://computerservices.royalroads.ca/kb/moodle-26-assignments" target="_blank">marking workflow</a>]</em></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong><a href="http://moodle.royalroads.ca/moodle/mod/book/view.php?id=71726" target="_blank">Gradebook</a> </strong><em>[simple weighted, weighted, or final grade item]</em></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Multi-Section Course</strong> [Yes or No; If yes, s<em>hould instructors view other sections? yes or no]</em></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong><a href="http://moodle.royalroads.ca/moodle/mod/book/view.php?id=71730" target="_blank">Groups &amp; Groupings</a> </strong><em>[list all groups and groupings] </em></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Collaborate rooms</strong><em> [# of class rooms]</em></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>Collaborate rooms </strong><em>[# of team rooms]</em></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><strong>-</strong></td>
+<td></td>
+<td colspan="3" valign="top"></td>
+</tr>
+</tbody>
 </table>
 <p></p>
-<table width="100%" class="course-schedule">
+<table class="course-schedule">
 <thead>
-  <tr>
-    <th><strong>Suggestions for next offering</strong>: (ID and ELT review general and QC notes from previous offering at time of course copy, decide what to keep and delete the rest. Copy notes to be kept here)
-    </th>
-  </tr>
+<tr><th><a name="tech_review"></a>Tech Review</th><th width="57%">Completed by: [Name, Date]</th><th width="18%"></th></tr>
 </thead>
 <tbody>
-  <tr>
-    <td> <br />
-    </td>
-  </tr></tbody>
+<tr><th width="25%">Page</th><th>Description</th><th>Resolved by:</th></tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table class="course-schedule">
+<thead>
+<tr><th><strong>Final Review</strong></th><th width="57%"><strong>Completed by: [Name, Date]</strong></th><th width="18%"></th></tr>
+</thead>
+<tbody>
+<tr><th width="25%"><strong>Page</strong></th><th><strong>Description</strong></th><th><strong>Resolved by:</strong></th></tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Link</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table class="course-schedule">
+<thead>
+<tr><th><strong>Suggestions for next offering</strong>: (ID and LT review general and QC notes from previous offering at time of course copy, decide what to keep and delete the rest. Copy notes to be kept here)</th></tr>
+</thead>
+<tbody>
+<tr>
+<td> -</td>
+</tr>
+<tr>
+<td> -</td>
+</tr>
+</tbody>
 </table>
